@@ -1,2 +1,2 @@
 # Big-Data-Report
-Contains various files pertaining to Big Data
+Repository containing files pertinent to a Talent Path Big Data assignment in the Data Engineering track.
